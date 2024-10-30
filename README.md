@@ -1,3 +1,6 @@
+![alt text](https://media.licdn.com/dms/image/v2/D4E16AQEqlxcZLactlA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730253784145?e=1735776000&v=beta&t=6FjnhJX9GiCIXWrwHZ6OMm4DIWzYfefZijyoqffpOWw)
+
+
 👋 Hi, I’m Chris. Welcome to my page! I'm a Data Analysis professional with a strong background in business operations, data visualization, and problem-solving. With over five years of experience in analyzing complex datasets and creating insightful reports, I’ve developed expertise in tools like SQL, Excel, Tableau, and Power BI to drive business efficiency and performance improvements.
 
 **Key Skills:**
