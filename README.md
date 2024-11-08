@@ -14,3 +14,8 @@
 **Leadership & Collaboration:** Adept at leading teams, developing talent, and driving cross-functional initiatives.
 
 Feel free to explore my [portfolio](https://github.com/ItsChris444/Portfolio), and don’t hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/chrisg2395/) or reach out via email: Chrisg2395@gmail.com.
+
+Here's some direct links to my evergrowing portfolio work!
+
+Tableau 
+[2024 U.S. Election Voter Turnout](https://public.tableau.com/app/profile/christopher.gonzalez4882/viz/2024ElectionTurnout/Dashboard1)
