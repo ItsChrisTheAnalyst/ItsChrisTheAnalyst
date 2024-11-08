@@ -15,8 +15,14 @@
 
 Feel free to explore my [portfolio](https://github.com/ItsChris444/Portfolio), and don’t hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/chrisg2395/) or reach out via email: Chrisg2395@gmail.com.
 
-Here's some direct links to my evergrowing portfolio work!
+**Here's some direct links to my evergrowing portfolio work!**
 
-Tableau 
+**Tableau **
 
 [2024 U.S. Election Voter Turnout](https://public.tableau.com/app/profile/christopher.gonzalez4882/viz/2024ElectionTurnout/Dashboard1)
+
+**Insights Analysis**
+
+[Whiskey Analysis](https://github.com/ItsChrisTheAnalyst/Portfolio/tree/main/Whiskey%20Analysis)
+
+[Root Cause Analysis & Busines Proposal](https://github.com/ItsChrisTheAnalyst/Portfolio/tree/main/Root%20Cause%20Analysis%20%26%20Business%20Proposal)
