@@ -15,6 +15,7 @@
 
 Feel free to explore my [portfolio](https://github.com/ItsChris444/Portfolio), and don’t hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/chrisg2395/) or reach out via email: Chrisg2395@gmail.com.
 
+
 **Here's some direct links to my evergrowing portfolio work!**
 
 **Tableau**
